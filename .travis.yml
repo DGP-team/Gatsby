@@ -13,4 +13,4 @@ deploy:
   skip_cleanup: true
   github_token: $GH_TOKEN
   on:
-    branch: main
+    branch: master
