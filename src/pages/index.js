@@ -5,7 +5,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <h1>We have two types of cards!</h1>
-      <p>You can hoose between the two from the navigation tab.</p>
+      <p>You can choose between the two from the navigation bar.</p>
     </Layout>
   )
 }
