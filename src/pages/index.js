@@ -8,9 +8,6 @@ const IndexPage = () => {
     <Layout>
       <h1>We have two types of cards!</h1>
       <p>You can hoose between the two from the navigation tab.</p>
-      <p>
-        Helloooooooooooooooooo???
-      </p>
     </Layout>
   )
 }
