@@ -1,8 +1,6 @@
 import * as React from 'react'
 import Layout from '../components/layout'
 
-// markup
-//src="../images/clifford.jpg"
 const IndexPage = () => {
   return (
     <Layout>
