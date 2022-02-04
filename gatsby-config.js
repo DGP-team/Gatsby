@@ -13,7 +13,7 @@ const gatsbyRequiredRules = path.join(
 );
 
 module.exports = {
-    pathPrefix: "/my-gatsby-project",
+    pathPrefix: "/Gatsby",
     siteMetadata: {
         siteUrl: `https://www.yourdomain.tld`,
         title: "My First Gatsby Site",
